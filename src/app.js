@@ -9,4 +9,3 @@ ReactDOM.render(
     <IndecisionApp />,
     document.getElementById('app')
 );
-// IndecisionApp options={['Devil\'s Den', 'Uniwer']}

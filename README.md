@@ -1,2 +1,2 @@
 # indecision-app
-Simple React app made with Andrew Mead's course.
+Simple React app, made by following Andrew Mead's course.
